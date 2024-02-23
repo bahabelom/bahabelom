@@ -1,3 +1,6 @@
+
+![Profile picture](https://tenor.com/view/developer-tester-relationship-gif-23489560)
+![Header image](https://tenor.com/view/web-webdevelopper-developper-computer-kid-computer-gif-13270512)
 ## About Me
 
 Hi there! I'm [Your Name], a [Brief description of yourself and background]. I'm passionate about [Your interests related to programming].
