@@ -1,9 +1,8 @@
-![Heading Image](https://www.bing.com/ck/a?!&&p=8c088bba250c7f8bJmltdHM9MTcwODY0NjQwMCZpZ3VpZD0yYjI4MmIwOC0yZWY3LTZlOTEtMTY4Yi0zODg2MmZhODZmMWQmaW5zaWQ9NTYwOQ&ptn=3&ver=2&hsh=3&fclid=2b282b08-2ef7-6e91-168b-38862fa86f1d&u=a1L2ltYWdlcy9zZWFyY2g_cT1NRVJOIGp1bmlvciBkZXZlbG9wZXIgYW5pbWF0ZWQgaW1hZ2UmRk9STT1JUUZSQkEmaWQ9QkRDQzJENkJCOUJFRDdFMENGRDIxRTNGMTIwMUYwM0RCQjYxQzQwMA&ntb=1)
+# Bahabelom Gebremedhn
 
-## About Me
+<img align="right" width="400" height="200" src="https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif" alt="Profile Image">
 
-Passionate software developer with 2 years of experience building applications that solve real-world problems. Adept in various languages like Java, JavaScript, PHP, and Android. Thrives in collaborative environments, tackling challenges with innovative solutions and ensuring software efficiency. Currently seeking opportunities to leverage my expertise and make a positive impact in real projects.
-
+Enthusiastic software engineer with a proven track record of crafting applications that address tangible challenges. Proficient in a spectrum of programming languages including Java, JavaScript, PHP, and Android. Flourishes in team settings, adept at devising inventive solutions to complex problems while prioritizing software optimization. Eager to apply my skills and drive for innovation towards meaningful projects that make a difference.
 ## Skills & Expertise
 
 ### Development:
@@ -11,7 +10,6 @@ Passionate software developer with 2 years of experience building applications t
 - Web Dev Frameworks (Laravel, ReactJS)
 - Mobile Computing (Android, React Native)
 - System Design & Programming (algorithms, software packages)
-<img align="right" width="400" height="300" src="https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=qqu0kizpNPOswQ&pid=ImgRaw&r=0" alt="Another Image">
 
 ### Technical:
 - Network Security 
@@ -30,7 +28,8 @@ Node.js, React, Laravel
 Windows, Unix/Linux, Ubuntu
 
 ### Soft Skills: 
-Excellent communication, Teamwork, Problem-solving, Adaptability, Leadership
+Excellent communication,
+Teamwork, Problem-solving, Adaptability, Leadership
 
 ## Areas of Interest
 - **Cybersecurity:** Protecting systems and data from cyber threats using my expertise in network security and software development.
@@ -40,15 +39,9 @@ Excellent communication, Teamwork, Problem-solving, Adaptability, Leadership
 
 ## Connect with me
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/bahabelom-gebremedhn-b514b1175/)
-GitHub: [GitHub](bahabelom (github.com))
-Email: [bahabelomgebremedhn2@gmail.com](mailto:bahabelomgebremedhn2@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bahabelom-gebremedhn-b514b1175/) | [GitHub](https://github.com/bahabelom) | [Email](mailto:bahabelomgebremedhn2@gmail.com)
 
 ## Personal Projects
 
 - [Instructors Evaluation System](link-to-project)
 - [Tigrigna Encryption App](link-to-project)
-
-## Badges
-
-[Add links to your badges using Markdown syntax or embed them directly if supported by your chosen badge provider.] (optional)
