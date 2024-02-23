@@ -1,5 +1,3 @@
-
-
 <style>
   .developer-image {
     width: 150px;
@@ -12,8 +10,9 @@
 
 ## About Me
 
-![Circle Developer Image](https://i.pinimg.com/originals/4e/35/d4/4e35d41a30d24c047e1f73b633d339d0.gif)
+![Circle Developer Image]([https://path/to/your/image.png](https://i.pinimg.com/originals/4e/35/d4/4e35d41a30d24c047e1f73b633d339d0.gif))
 <div class="developer-image"></div>
+
 
 Hi there! I'm [Your Name], a [Brief description of yourself and background]. I'm passionate about [Your interests related to programming].
 
