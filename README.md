@@ -1,6 +1,8 @@
+![Heading Image](https://www.bing.com/ck/a?!&&p=8c088bba250c7f8bJmltdHM9MTcwODY0NjQwMCZpZ3VpZD0yYjI4MmIwOC0yZWY3LTZlOTEtMTY4Yi0zODg2MmZhODZmMWQmaW5zaWQ9NTYwOQ&ptn=3&ver=2&hsh=3&fclid=2b282b08-2ef7-6e91-168b-38862fa86f1d&u=a1L2ltYWdlcy9zZWFyY2g_cT1NRVJOIGp1bmlvciBkZXZlbG9wZXIgYW5pbWF0ZWQgaW1hZ2UmRk9STT1JUUZSQkEmaWQ9QkRDQzJENkJCOUJFRDdFMENGRDIxRTNGMTIwMUYwM0RCQjYxQzQwMA&ntb=1)
+
 ## About Me
 
-Passionate software developer with 2 years of experience building applications that solve real-world problems. Adept in various languages like Java, JavaScript, PHP, and Android. Thrives in collaborative environments, tackling challenges with innovative solutions and ensuring software efficiency. Currently seeking opportunities at the Ethiopian Civil Aviation Authority to leverage my expertise and make a positive impact.
+Passionate software developer with 2 years of experience building applications that solve real-world problems. Adept in various languages like Java, JavaScript, PHP, and Android. Thrives in collaborative environments, tackling challenges with innovative solutions and ensuring software efficiency. Currently seeking opportunities to leverage my expertise and make a positive impact in real projects.
 
 ## Skills & Expertise
 
@@ -9,6 +11,7 @@ Passionate software developer with 2 years of experience building applications t
 - Web Dev Frameworks (Laravel, ReactJS)
 - Mobile Computing (Android, React Native)
 - System Design & Programming (algorithms, software packages)
+<img align="right" width="400" height="300" src="https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=qqu0kizpNPOswQ&pid=ImgRaw&r=0" alt="Another Image">
 
 ### Technical:
 - Network Security 
