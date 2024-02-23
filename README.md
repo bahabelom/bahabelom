@@ -1,58 +1,40 @@
-<style>
-  .developer-image {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    margin: 0 auto;
-    display: block;
-  }
-</style>
-
 ## About Me
 
-![]([https://path/to/your/image.png](https://i.pinimg.com/originals/4e/35/d4/4e35d41a30d24c047e1f73b633d339d0.gif))
-<div class="developer-image"></div>
+Passionate software developer with 2 years of experience building applications that solve real-world problems.
+Adept in various languages like Java, JavaScript, PHP, and Android. Thrives in collaborative environments, tackling challenges with innovative solutions and ensuring software efficiency. Currently seeking opportunities at the Ethiopian Civil Aviation Authority to leverage my expertise and make a positive impact.
 
+## Skills & Expertise
 
-Hi there! I'm [Your Name], a [Brief description of yourself and background]. I'm passionate about [Your interests related to programming].
+## Development:
+Java ,
+Web Dev Frameworks (Laravel, ReactJS),
+Mobile Computing (Android, React Native),
+System Design & Programming (algorithms, software packages)
+## Technical:
+Network Security ️,
+Video Editing (Adobe Premiere),
+Photo Editing (Adobe Photoshop),
+Computer Maintenance & Troubleshooting,
+Database Management (SQL Server, MySQL, MongoDB), ️
+Languages: C++, Java, Python, PHP, Assembly, HTML, CSS, JavaScript,
+Frameworks:  Node.js, React, Laravel ️,
+Platforms: Windows, Unix/Linux, Ubuntu, 🪟
+Soft Skills: Excellent communication, Teamwork, Problem-solving, Adaptability, Leadership,
+## Areas of Interest
+** Cybersecurity:** Protecting systems and data from cyber threats using my expertise in network security and software development.
+** Mobile App Development:** Building user-friendly and innovative mobile applications for various needs.
+** Social Impact Tech:** Leveraging technology to address social and economic challenges like healthcare, education, and agriculture.
+** Open-Source Development:** Contributing to open-source projects to learn from and collaborate with the wider developer community.
+## Connect with me
 
+LinkedIn: [LinkedIn]
+GitHub: [] 
+Email: [bahabelomgebremedhn2@gmail.com] 
 
-**Skills and Expertise:**
+## Personal Projects
 
-* [List of your programming languages]
-* [List of other relevant skills]
+[Instructors Evalution System] 
+[Tigrigna encryption app] 
+Badges:
 
-**Areas of Interest:**
-
-* [Area 1]
-* [Area 2]
-* [Area 3]
-
-**Projects:**
-
-* [Link to your personal projects]
-* [Link to your open-source contributions]
-
-**Connect with me:**
-
-* [Link to your website]
-* [Link to your LinkedIn profile]
-* [Link to other social media profiles]
-
-**Badges:**
-
-[Add links to your badges using Markdown syntax or embed them directly if supported by your chosen badge provider.]
-
-**Note:** Replace the bracketed text with your own information and adjust the formatting to your liking.
-
-**3. Additional tips:**
-
-* Use headings and bullet points to make your text readable.
-* You can add links to other sections of your profile or external websites.
-* Use emojis sparingly and professionally.
-* Keep it concise and engaging, aiming for around 200 words.
-* Proofread carefully for typos and grammatical errors.
-
-**Remember:** This is just a starting point. Feel free to customize it to reflect your unique personality and brand.
-
-I hope this helps! Let me know if you have any other questions.
+[ links to my badges using Markdown syntax or embed them directly if supported by  chosen badge provider.]
