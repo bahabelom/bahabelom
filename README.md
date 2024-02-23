@@ -10,7 +10,7 @@
 
 ## About Me
 
-![Circle Developer Image]([https://path/to/your/image.png](https://i.pinimg.com/originals/4e/35/d4/4e35d41a30d24c047e1f73b633d339d0.gif))
+![]([https://path/to/your/image.png](https://i.pinimg.com/originals/4e/35/d4/4e35d41a30d24c047e1f73b633d339d0.gif))
 <div class="developer-image"></div>
 
 
