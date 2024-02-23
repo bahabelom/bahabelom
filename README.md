@@ -1,8 +1,7 @@
 
-![Profile picture](https://th.bing.com/th/id/OIP.defveqJwCb77B2UJOCuGuAHaFj?rs=1&pid=ImgDetMain)
-![Header image](https://tenor.com/view/web-webdevelopper-developper-computer-kid-computer-gif-13270512)
 ## About Me
 
+![Circle Developer Image](https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif){:style="width: 150px; height: 150px; border-radius: 50%; margin: 0 auto; display: block;"}
 Hi there! I'm [Your Name], a [Brief description of yourself and background]. I'm passionate about [Your interests related to programming].
 
 **Skills and Expertise:**
