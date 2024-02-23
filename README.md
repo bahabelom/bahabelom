@@ -6,24 +6,15 @@ Enthusiastic software engineer with a proven track record of crafting applicatio
 ## Skills & Expertise
 
 ### Development:
-- Java
-- Web Dev Frameworks (Laravel, ReactJS)
+- Web Dev Frameworks (Laravel, ReactJS, Next Js)
 - Mobile Computing (Android, React Native)
-- System Design & Programming (algorithms, software packages)
-
+- Java
 ### Technical:
-- Network Security 
-- Video Editing (Adobe Premiere)
-- Photo Editing (Adobe Photoshop)
 - Computer Maintenance & Troubleshooting
 - Database Management (SQL Server, MySQL, MongoDB)
   
 ### Languages: 
-C++, Java, Python, PHP, Assembly, HTML, CSS, JavaScript
-
-### Frameworks:  
-Node.js, React, Laravel
-
+C++, Java, Python, PHP, HTML, CSS, JavaScript
 ### Platforms: 
 Windows, Unix/Linux, Ubuntu
 
@@ -32,10 +23,10 @@ Excellent communication,
 Teamwork, Problem-solving, Adaptability, Leadership
 
 ## Areas of Interest
-- **Cybersecurity:** Protecting systems and data from cyber threats using my expertise in network security and software development.
 - **Mobile App Development:** Building user-friendly and innovative mobile applications for various needs.
 - **Social Impact Tech:** Leveraging technology to address social and economic challenges like healthcare, education, and agriculture.
 - **Open-Source Development:** Contributing to open-source projects to learn from and collaborate with the wider developer community.
+- **Cybersecurity:** Protecting systems and data from cyber threats using my expertise in network security and software development.
 
 ## Connect with me
 
