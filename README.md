@@ -1,9 +1,21 @@
 
+
+<style>
+  .developer-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+  }
+</style>
+
 ## About Me
 
-![ Developer Image](https://i.pinimg.com/originals/4e/35/d4/4e35d41a30d24c047e1f73b633d339d0.gif){:style="width: 150px; height: 150px; border-radius: 50%; margin: 0 auto; display: block;"}
+![Circle Developer Image](https://i.pinimg.com/originals/4e/35/d4/4e35d41a30d24c047e1f73b633d339d0.gif)
+<div class="developer-image"></div>
 
-Hi there! I'm [Bahabelom ], a [Brief description of yourself and background]. I'm passionate about [Your interests related to programming].
+Hi there! I'm [Your Name], a [Brief description of yourself and background]. I'm passionate about [Your interests related to programming].
 
 
 **Skills and Expertise:**
