@@ -1,8 +1,10 @@
 
 ## About Me
 
-![Circle Developer Image](https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif){:style="width: 150px; height: 150px; border-radius: 50%; margin: 0 auto; display: block;"}
-Hi there! I'm [Your Name], a [Brief description of yourself and background]. I'm passionate about [Your interests related to programming].
+![ Developer Image](https://i.pinimg.com/originals/4e/35/d4/4e35d41a30d24c047e1f73b633d339d0.gif){:style="width: 150px; height: 150px; border-radius: 50%; margin: 0 auto; display: block;"}
+
+Hi there! I'm [Bahabelom ], a [Brief description of yourself and background]. I'm passionate about [Your interests related to programming].
+
 
 **Skills and Expertise:**
 
